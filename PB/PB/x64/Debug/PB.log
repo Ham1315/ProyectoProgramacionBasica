@@ -1,0 +1,3 @@
+﻿  PB.cpp
+C:\Users\angel\OneDrive\Documentos\VisualStudio Trabajos\PB\PB\PB.cpp(17,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  PB.vcxproj -> C:\Users\angel\OneDrive\Documentos\VisualStudio Trabajos\PB\x64\Debug\PB.exe
